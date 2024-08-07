@@ -1,0 +1,5 @@
+package com.cts.adb.api;
+
+public class ExceptionsAdvice {
+
+}

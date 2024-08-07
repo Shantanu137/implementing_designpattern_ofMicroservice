@@ -1,0 +1,5 @@
+package com.cts.adb.exception;
+
+public class AddressBookException {
+
+}

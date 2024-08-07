@@ -1,0 +1,5 @@
+package com.cts.adb.services;
+
+public interface ContactService {
+
+}
